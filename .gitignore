@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env*
+*.key
+*.token
+qa-report.json
+screenshots/*.png
+assets/*-source.jpg
